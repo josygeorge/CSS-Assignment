@@ -13,7 +13,7 @@ main {
 body {
     color:rgb(253, 253, 243);
     background: url("../assets/images/dark-wood5.jpg");
-    font-family: Verdana, Helvetica, Tahoma, Arial, sans-serif;
+    font-family: Tahoma, Verdana, Helvetica,  Arial, sans-serif;
 }
 /* #3 */
 div.container{
@@ -31,7 +31,7 @@ div.container{
 /* #5 */
 header, nav, footer {
     background: hsla(25, 42%, 79%, 0.4);
-    color: rgb(245, 209, 131);
+    color: rgb(250, 219, 180);
 }
 /* #6 */
 nav ul {
@@ -48,7 +48,7 @@ nav li {
 }
 /* #8 */
 nav a:link {
-    color: rgb(159, 247, 247);
+    color: rgb(198, 245, 245);
 }
 nav a:visited {
     color: rgb(250, 228, 185);
