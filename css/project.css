@@ -68,7 +68,7 @@ a {
 h1,h2,h3 {
     margin: 10px;
     text-transform: uppercase;
-    color:rgb(189, 189, 93)
+    color:rgb(177, 199, 99)
 }
 /* #11 */
 .img-centre {
@@ -104,7 +104,7 @@ table th, tfoot td {
 /* #16 */
 dt {
     font-weight: bold;
-    color: rgb(177, 177, 34);
+    color: rgb(174, 221, 243);
 }
 /* #17 */
 footer {
